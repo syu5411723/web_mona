@@ -1,9 +1,10 @@
+import { Home } from "../components/pages/Home"
 
 const index = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+      <Home />
+    </>
   )
 }
 
